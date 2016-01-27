@@ -119,7 +119,7 @@
     </fieldset>
     <fieldset>
         <div class="field field-one">
-            <label>GitHub Account (apenas @exemplo)</label>
+            <label>GitHub Account (apenas exemplo)</label>
             <div class="field">
                 <input type="text" id="contact-github" name="contact_github" />
             </div>
